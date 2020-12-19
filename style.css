@@ -1,0 +1,45 @@
+body{
+
+    background-color: lightgray;
+    text-align: center;
+}
+#img-div{
+    background-color: whitesmoke;
+    max-width: 100%;
+    max-height: 100%;
+    display: inline-block;
+    font-size: 12pt;
+    text-align: justify;
+    font-weight: bold;
+    color: rgba(15, 53, 31.9);
+}
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:80%;
+    max-height: 80%;
+    padding: 4%;
+}
+#title{
+    color:gray;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    padding: 2%;
+}
+
+#tribute-info{
+    text-align: justify;
+    max-width: 70%;
+    max-height: 70%;
+    display: inline-block;
+    padding: 5%;
+    font-size: 18pt;
+}
+
+#roda-pe{
+    color: gray;
+    text-align: center;
+    font-size: 18pt;
+}
